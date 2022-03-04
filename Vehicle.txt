@@ -1,0 +1,663 @@
+For version game 1.58 (On other versions of the game "Global" does not work correctly)
+
+------------------------------------------------------------------------------
+
+clbs = Global_4718592.f_77718
+icv = Global_4718592.f_77714
+
+------------------------------------------------------------------------------
+    Vehicle                 |      aveh     |      adlc    |       adlc2    |    adlc3   
+                            |               |              |                |   
+Compacts vehicle count - 13 ( icv = 0; clbs = 1)   
+                            |               |              |                |   
+    Global_4718592.f_77745 - adlc
+    Global_4718592.f_77720 - aveh
+                            |               |              |                |   
+    Blista                  |      14       |   0          |    0           |   0
+    Dilettante              |      13       |   0          |    0           |   0
+    Issi                    |      11       |   0          |    0           |   0
+    Prairie                 |      7        |   0          |    0           |   0
+    Rhapsody                |      15       |   1          |    0           |   0
+    Panto                   |      15       |   2          |    0           |   0
+    Brioso R/A              |      15       |   4          |    0           |   0
+    Issi Classic            |      15       |   8          |    0           |   0
+    Blista Kanjo            |      15       |   16         |    0           |   0
+    Asbo                    |      15       |   32         |    0           |   0
+    Club                    |      15       |   64         |    0           |   0
+    Brioso 300              |      15       |   128        |    0           |   0
+    Weevil                  |      15       |   256        |    0           |   0
+                            |               |              |                |   
+Sedans vehicle count - 28 ( icv = 1; clbs = 2 )   
+                            |               |              |                |   
+    Global_4718592.f_77749 - adlc
+    Global_4718592.f_77721 - aveh
+                            |               |              |                |   
+    Asea                    |      2046     |   0          |    0           |   0
+    Asterope                |      2045     |   0          |    0           |   0
+    Fugigive                |      2043     |   0          |    0           |   0
+    Primier                 |      2039     |   0          |    0           |   0
+    Primo                   |      2031     |   0          |    0           |   0
+    Schafter                |      2015     |   0          |    0           |   0
+    Stanier                 |      1983     |   0          |    0           |   0
+    Super Diamond           |      1919     |   0          |    0           |   0
+    Surge                   |      1791     |   0          |    0           |   0
+    Tailgater               |      1535     |   0          |    0           |   0
+    Washington              |      1023     |   0          |    0           |   0
+    Glendale                |      2047     |   1          |    0           |   0
+    Wareener                |      2047     |   2          |    0           |   0
+    Primo Custom            |      2047     |   4          |    0           |   0
+    Schafter v12            |      2047     |   8          |    0           |   0
+    Schafter v12 (armor)    |      2047     |   16         |    0           |   0
+    Schafter LWB            |      2047     |   32         |    0           |   0
+    Schafter LWB (armor)    |      2047     |   64         |    0           |   0
+    Cognoscenti 55          |      2047     |   128        |    0           |   0
+    Cognoscenti 55 (armor)  |      2047     |   256        |    0           |   0
+    Cognoscenti             |      2047     |   512        |    0           |   0
+    Cognoscenti (armor)     |      2047     |   1024       |    0           |   0
+    Stafford                |      2047     |   2048       |    0           |   0
+    Glendale Custom         |      2047     |   4096       |    0           |   0
+    Wareener HKR            |      2047     |   8192       |    0           |   0
+    Tailgater S             |      2047     |   16384      |    0           |   0
+    Deity                   |      2047     |   32768      |    0           |   0
+    Cinquemila              |      2047     |   65536      |    0           |   0
+                            |               |              |                |   
+                            |               |              |                |   
+SUVs vehicle count - 37 ( icv = 2; clbs = 4 )   
+                            |               |              |                |   
+    Global_4718592.f_77753 - adlc
+    Global_4718592.f_77722 - aveh
+                            |               |              |                |   
+    All                     |   0           |   7864319    |    0           |   0 
+    Baller                  |   32766       |   0          |    0           |   0
+    Baller (2013)           |   32765       |   0          |    0           |   0
+    BeeJay Xl               |   32763       |   0          |    0           |   0
+    Cavalcade               |   32759       |   0          |    0           |   0
+    Crusader                |   32751       |   0          |    0           |   0
+    Dubsta                  |   32735       |   0          |    0           |   0
+    Granger                 |   32703       |   0          |    0           |   0
+    Gresley                 |   32639       |   0          |    0           |   0
+    Landstalker             |   32511       |   0          |    0           |   0
+    Mesa                    |   32255       |   0          |    0           |   0
+    Park Ranger             |   31743       |   0          |    0           |   0
+    Radius                  |   30719       |   0          |    0           |   0
+    Seminole                |   28671       |   0          |    0           |   0
+    Serrano                 |   24575       |   0          |    0           |   0
+    Dubsta 6x6              |   16383       |   0          |    0           |   0
+    Huntley S               |   32767       |   1          |    0           |   0
+    Baller LE               |   32767       |   2          |    0           |   0
+    Baller LE LWB           |   32767       |   4          |    0           |   0
+    Baller LE (armor)       |   32767       |   8          |    0           |   0
+    Baller LE LWB (armor)   |   32767       |   16         |    0           |   0
+    XLS                     |   32767       |   32         |    0           |   0
+    XLS (armor)             |   32767       |   64         |    0           |   0
+    Contender               |   32767       |   128        |    0           |   0
+    Patriot Stretch         |   32767       |   256        |    0           |   0
+    FQ 2                    |   32767       |   512        |    0           |   0
+    Habanero                |   32767       |   1024       |    0           |   0
+    Toros                   |   32767       |   2048       |    0           |   0
+    Novak                   |   32767       |   4096       |    0           |   0
+    Rebla GTS               |   32767       |   8192       |    0           |   0
+    Landstalker XL          |   32767       |   16384      |    0           |   0
+    Seminole Frontier       |   32767       |   32768      |    0           |   0
+    Squaddie                |   32767       |   65536      |    0           |   0
+    Granger 3600LX          |   32767       |   131072     |    0           |   0
+    Astron                  |   32767       |   262144     |    0           |   0
+    Baller ST               |   32767       |   1048576    |    0           |   0
+    Jubilee                 |   32767       |   2097152    |    0           |   0
+    I-Wagen                 |   32767       |   4194304    |    0           |   0
+                            |               |              |                |   
+                            |               |              |                |   
+Coupes vehicle count - 10 ( icv = 3; clbs = 8 )
+                            |               |              |                |   
+    Global_4718592.f_77757 - adlc
+    Global_4718592.f_77723 - aveh
+                            |               |              |                |   
+    All                     |   0           |   7          |    0           |   0 
+    Cognoscenti Cabrio      |   126         |   0          |    0           |   0
+    Exemplar                |   125         |   0          |    0           |   0
+    F620                    |   123         |   0          |    0           |   0
+    Felon GT                |   119         |   0          |    0           |   0
+    Jackal                  |   111         |   0          |    0           |   0
+    Oracle                  |   95          |   0          |    0           |   0
+    Sentinel                |   63          |   0          |    0           |   0
+    Windsor                 |   127         |   1          |    0           |   0
+    Windsor Drop            |   127         |   2          |    0           |   0
+    Previon                 |   127         |   4          |    0           |   0
+                            |               |              |                |   
+                            |               |              |                |   
+Muscle vehicle count - 53 ( icv = 4; clbs = 16 )   
+                            |               |              |                |   
+    Global_4718592.f_77761 - adlc
+    Global_4718592.f_77762 - adlc2
+    Global_4718592.f_77724 - aveh
+                            |               |              |                |   
+    All                     |   0           |   2147483647 |    12287       |   0 
+    Buccaneer               |   510         |   0          |    0           |   0
+    Dominator               |   509         |   0          |    0           |   0
+    Gauntlet                |   507         |   0          |    0           |   0
+    Phoenix                 |   503         |   0          |    0           |   0
+    Picador                 |   495         |   0          |    0           |   0
+    Ruiner                  |   479         |   0          |    0           |   0
+    Sabre Turbo             |   447         |   0          |    0           |   0
+    Vigero                  |   383         |   0          |    0           |   0
+    Hotknife                |   255         |   0          |    0           |   0
+    Blade                   |   511         |   1          |    0           |   0
+    Rat-Truck               |   511         |   2          |    0           |   0
+    Slamvan                 |   511         |   4          |    0           |   0
+    Dukes                   |   511         |   8          |    0           |   0
+    Stallion                |   511         |   16         |    0           |   0
+    Virgo                   |   511         |   32         |    0           |   0
+    Coquette BlackFin       |   511         |   64         |    0           |   0
+    Chino                   |   511         |   128        |    0           |   0
+    Faction                 |   511         |   256        |    0           |   0
+    Faction Custom          |   511         |   512        |    0           |   0
+    Moonbeam Custom         |   511         |   1024       |    0           |   0
+    Chino Custom            |   511         |   2048       |    0           |   0
+    Voodoo Custom           |   511         |   4096       |    0           |   0
+    Buccaneer Custom        |   511         |   8192       |    0           |   0
+    Nightshade              |   511         |   16384      |    0           |   0
+    Faction Custom Donk     |   511         |   32768      |    0           |   0
+    Slamvan Custom          |   511         |   65536      |    0           |   0
+    Virgo Classic           |   511         |   131072     |    0           |   0
+    Virgo Classic Custom    |   511         |   262144     |    0           |   0
+    Sabre Turbo Custom      |   511         |   524288     |    0           |   0
+    Pisswasser Dominator    |   511         |   1048576    |    0           |   0
+    Redwood Gauntlet        |   511         |   2097152    |    0           |   0
+    Burger Shot Stallion    |   511         |   4194304    |    0           |   0
+    Duke O'Death            |   511         |   8388608    |    0           |   0
+    Yosemite                |   511         |   16777216   |    0           |   0
+    Hermes                  |   511         |   33554432   |    0           |   0
+    Hustler                 |   511         |   67108864   |    0           |   0
+    Ellie                   |   511         |   134217728  |    0           |   0
+    Dominator GTX           |   511         |   268435456  |    0           |   0
+    Vamos                   |   511         |   536870912  |    0           |   0
+    Impaler                 |   511         |   1073741824 |    0           |   0
+    Deviant                 |   511         |   0          |    1           |   0
+    Tulip                   |   511         |   0          |    2           |   0
+    Clique                  |   511         |   0          |    4           |   0
+    Gauntlet Classic        |   511         |   0          |    8           |   0
+    Gauntlet Hillfire       |   511         |   0          |    16          |   0
+    Peyote Gasser           |   511         |   0          |    32          |   0
+    Drift Yosemite          |   511         |   0          |    64          |   0
+    Beater Dukes            |   511         |   0          |    128         |   0
+    Gauntlet Classic Custom |   511         |   0          |    256         |   0
+    Manana Custom           |   511         |   0          |    512         |   0
+    Dominator ASP           |   511         |   0          |    1024        |   0
+    Dominator GTT           |   511         |   0          |    2048        |   0
+    Buffalo STX             |   511         |   0          |    8192        |   0
+                            |               |              |                |   
+                            |               |              |                |   
+Sports Classics vehicle count - 35   ( icv = 5; clbs = 32)
+                            |               |              |                |   
+    Global_4718592.f_77765 - adlc
+    Global_4718592.f_77725 - aveh
+                            |               |              |                |   
+    All                     |   0           |   2147483647 |    0           |   0 
+    JB 700                  |   14          |   0          |    0           |   0
+    Monroe                  |   13          |   0          |    0           |   0
+    Stinger                 |   11          |   0          |    0           |   0
+    Z-Type                  |   7           |   0          |    0           |   0
+    Roosevelt               |   15          |   1          |    0           |   0
+    Pigalle                 |   15          |   2          |    0           |   0
+    Coquette Classic        |   15          |   4          |    0           |   0
+    Casco                   |   15          |   8          |    0           |   0
+    Striling GT             |   15          |   16         |    0           |   0
+    Mamba                   |   15          |   32         |    0           |   0
+    Tornado Custom          |   15          |   64         |    0           |   0
+    Tornado Rat Rod         |   15          |   128        |    0           |   0
+    Infernus Classic        |   15          |   256        |    0           |   0
+    Turismo Classic         |   15          |   512        |    0           |   0
+    Cheetah Classic         |   15          |   1024       |    0           |   0
+    Torero                  |   15          |   2048       |    0           |   0
+    Retynue                 |   15          |   4096       |    0           |   0
+    Rapid GT                |   15          |   8192       |    0           |   0
+    Savestra                |   15          |   16384      |    0           |   0
+    Viseris                 |   15          |   32768      |    0           |   0
+    GT500                   |   15          |   65536      |    0           |   0
+    190z                    |   15          |   131072     |    0           |   0
+    Fagaloa                 |   15          |   262144     |    0           |   0
+    Cheburek                |   15          |   524288     |    0           |   0
+    Michelli GT             |   15          |   1048576    |    0           |   0
+    Jester Classic          |   15          |   2097152    |    0           |   0
+    Swinger                 |   15          |   4194304    |    0           |   0
+    Zion Classic            |   15          |   8388608    |    0           |   0
+    Dynasty                 |   15          |   16777216   |    0           |   0
+    Nebyla Turbo            |   15          |   33554432   |    0           |   0
+    Retinue Mk2             |   15          |   67108864   |    0           |   0
+    Franken Stanger         |   15          |   134217728  |    0           |   0
+    Peyote Custom           |   15          |   268435456  |    0           |   0
+    Ardent                  |   15          |   536870912  |    0           |   0
+    JB 700W                 |   15          |   1073741824 |    0           |   0
+                            |               |              |                |   
+                            |               |              |                |   
+Sports count - 77   ( icv = 6; clbs = 64)
+                            |               |              |                |   
+    Global_4718592.f_77769 - adlc
+    Global_4718592.f_77770 - adlc2
+    Global_4718592.f_77771 - adlc3
+    Global_4718592.f_77726 - aveh
+                            |               |              |                |   
+    All                     |   0           |   2147483647 |    2147483647  |   27
+    9F Cabrio               |   2046        |   0          |    0           |   0
+    Banshee                 |   2045        |   0          |    0           |   0
+    Carbonizzare            |   2043        |   0          |    0           |   0
+    Comet                   |   2039        |   0          |    0           |   0
+    Coquette                |   2031        |   0          |    0           |   0
+    Feltzer                 |   2015        |   0          |    0           |   0
+    Fusilade                |   1983        |   0          |    0           |   0
+    Futo                    |   1919        |   0          |    0           |   0
+    Rapid GT                |   1791        |   0          |    0           |   0
+    Sultan                  |   1535        |   0          |    0           |   0
+    Khamelion               |   1023        |   0          |    0           |   0
+    Alpha                   |   2047        |   1          |    0           |   0
+    Jester                  |   2047        |   2          |    0           |   0
+    Massacro                |   2047        |   4          |    0           |   0
+    Furore GT               |   2047        |   8          |    0           |   0
+    Jester (Racecar)        |   2047        |   16         |    0           |   0
+    Massacro (Racecar)      |   2047        |   32         |    0           |   0
+    Blista Compact          |   2047        |   64         |    0           |   0
+    Kuruma                  |   2047        |   128        |    0           |   0
+    Kuruma (armor)          |   2047        |   256        |    0           |   0
+    Verlierer               |   2047        |   512        |    0           |   0
+    Bestia GTS              |   2047        |   1024       |    0           |   0
+    Seven-70                |   2047        |   2048       |    0           |   0
+    Omnis                   |   2047        |   4096       |    0           |   0
+    Tropos Rallye           |   2047        |   8192       |    0           |   0
+    Lynx                    |   2047        |   16384      |    0           |   0
+    Drift Tampa             |   2047        |   32768      |    0           |   0
+    Sprunk Buffalo          |   2047        |   65536      |    0           |   0
+    Raptor                  |   2047        |   131072     |    0           |   0
+    Elegy RH8               |   2047        |   262144     |    0           |   0
+    Elegy Retro Custom      |   2047        |   524288     |    0           |   0
+    Comet Retro Custom      |   2047        |   1048576    |    0           |   0
+    Specter                 |   2047        |   2097152    |    0           |   0
+    Specter Custom          |   2047        |   4194304    |    0           |   0
+    Ruston                  |   2047        |   8388608    |    0           |   0
+    Raiden                  |   2047        |   16777216   |    0           |   0
+    Pariah                  |   2047        |   33554432   |    0           |   0
+    Comet Safari            |   2047        |   67108864   |    0           |   0
+    Sentinel Classic        |   2047        |   134217728  |    0           |   0
+    Streiter                |   2047        |   268435456  |    0           |   0
+    Revolter                |   2047        |   536870912  |    0           |   0
+    Neon                    |   2047        |   1073741824 |    0           |   0
+    Comet SR                |   2047        |   0          |    1           |   0
+    Hotring Sabre           |   2047        |   0          |    2           |   0
+    GB200                   |   2047        |   0          |    4           |   0
+    Flash GT                |   2047        |   0          |    8           |   0
+    Schlagen GT             |   2047        |   0          |    16          |   0
+    Itali GTO               |   2047        |   0          |    32          |   0
+    8F Drafter              |   2047        |   0          |    64          |   0
+    Issi Sport              |   2047        |   0          |    128         |   0
+    Neon                    |   2047        |   0          |    256         |   0
+    Locust                  |   2047        |   0          |    512         |   0
+    Jugular                 |   2047        |   0          |    1024        |   0
+    Paragon R               |   2047        |   0          |    2048        |   0
+    Schwartzer              |   2047        |   0          |    4096        |   0
+    Imorgon                 |   2047        |   0          |    8192        |   0
+    Sugoi                   |   2047        |   0          |    16384       |   0
+    V-STR                   |   2047        |   0          |    32768       |   0
+    Komoda                  |   2047        |   0          |    65536       |   0
+    Sultan Classic          |   2047        |   0          |    131072      |   0
+    Penumbra FF             |   2047        |   0          |    262144      |   0
+    Coquette D10            |   2047        |   0          |    524288      |   0
+    Itali RSX               |   2047        |   0          |    1048576     |   0
+    Calico GTF              |   2047        |   0          |    2097152     |   0
+    Jester RR               |   2047        |   0          |    4194304     |   0
+    ZR350                   |   2047        |   0          |    8388608     |   0
+    Remus                   |   2047        |   0          |    16777216    |   0
+    Vectre                  |   2047        |   0          |    33554432    |   0
+    Cypher                  |   2047        |   0          |    67108864    |   0
+    Comet S2                |   2047        |   0          |    134217728   |   0
+    RT3000                  |   2047        |   0          |    268435456   |   0
+    Sultan RS Classic       |   2047        |   0          |    536870912   |   0
+    Futo GTX                |   2047        |   0          |    1073741824  |   0
+    Euros                   |   2047        |   0          |    0           |   1
+    Growler                 |   2047        |   0          |    0           |   2
+    Comet S2 Cabrio         |   2047        |   0          |    0           |   8
+    Paragon R (armor)       |   2047        |   0          |    0           |   16
+                            |               |              |                |   
+                            |               |              |                |   
+Super count - 48   ( icv = 7; clbs = 128)
+                            |               |              |                |   
+    Global_4718592.f_77773 - adlc
+    Global_4718592.f_77774 - adlc2
+    Global_4718592.f_77727 - aveh
+                            |               |              |                |   
+    All                     |   0           |   2147483647 |    3327        |   0
+    Adder                   |   127         |   0          |    0           |   0
+    Bullet                  |   125         |   0          |    0           |   0
+    Cheetah                 |   123         |   0          |    0           |   0
+    Entity XF               |   119         |   0          |    0           |   0
+    Infernus                |   111         |   0          |    0           |   0
+    Vacca                   |   95          |   0          |    0           |   0
+    Voltic                  |   63          |   0          |    0           |   0
+    Turismo R               |   127         |   1          |    0           |   0
+    Zentorno                |   127         |   2          |    0           |   0
+    Osiris                  |   127         |   4          |    0           |   0
+    T20                     |   127         |   8          |    0           |   0
+    Banshee 900R            |   127         |   16         |    0           |   0
+    Sultan RS               |   127         |   32         |    0           |   0
+    Reaper                  |   127         |   64         |    0           |   0
+    FMJ                     |   127         |   128        |    0           |   0
+    X80 Proto               |   127         |   256        |    0           |   0
+    Pfister 811             |   127         |   512        |    0           |   0
+    RE-7B                   |   127         |   1024       |    0           |   0
+    Tyrus                   |   127         |   2048       |    0           |   0
+    ETR1                    |   127         |   4096       |    0           |   0
+    Penetrator              |   127         |   8192       |    0           |   0
+    Tempesta                |   127         |   16384      |    0           |   0
+    Itali GTB               |   127         |   32768      |    0           |   0
+    Itali GTB Custom        |   127         |   65536      |    0           |   0
+    Nero                    |   127         |   131072     |    0           |   0
+    Nero Custom             |   127         |   262144     |    0           |   0
+    GP1                     |   127         |   524288     |    0           |   0
+    Vagner                  |   127         |   1048576    |    0           |   0
+    XA-21                   |   127         |   2097152    |    0           |   0
+    Visione                 |   127         |   4194304    |    0           |   0
+    Cyclone                 |   127         |   8388608    |    0           |   0
+    SC1                     |   127         |   16777216   |    0           |   0
+    Autarch                 |   127         |   33554432   |    0           |   0
+    Taipan                  |   127         |   67108864   |    0           |   0
+    Entity XXR              |   127         |   134217728  |    0           |   0
+    Tezeract                |   127         |   268435456  |    0           |   0
+    Tyrant                  |   127         |   536870912  |    0           |   0
+    Deveste Eight           |   127         |   1073741824 |    0           |   0
+    Thrax                   |   127         |   0          |    1           |   0
+    Zorrusso                |   127         |   0          |    2           |   0
+    Krieger                 |   127         |   0          |    4           |   0
+    Emerus                  |   127         |   0          |    8           |   0
+    S80RR                   |   127         |   0          |    16          |   0
+    Furia                   |   127         |   0          |    32          |   0
+    Tigon                   |   127         |   0          |    64          |   0
+    Ignus                   |   127         |   0          |    128         |   0
+    Zeno                    |   127         |   0          |    1024        |   0
+    Champion                |   127         |   0          |    2048        |   0
+                            |               |              |                |   
+                            |               |              |                |   
+Bikes count - 50   ( icv = 8; clbs = 256)
+                            |               |              |                |   
+    Global_4718592.f_77777 - adlc
+    Global_4718592.f_77778 - adlc2
+    Global_4718592.f_77728 - aveh
+                            |               |              |                |   
+    All                     |   0           |   2147483647 |    55          |   0
+    Akuma                   |   16382       |   0          |    0           |   0
+    Bagger                  |   16381       |   0          |    0           |   0
+    Bati 801                |   16379       |   0          |    0           |   0
+    Bati 801RR              |   16375       |   0          |    0           |   0
+    Blazer                  |   16367       |   0          |    0           |   0
+    Daemon                  |   16351       |   0          |    0           |   0
+    Double-T                |   16319       |   0          |    0           |   0
+    Nemesis                 |   16255       |   0          |    0           |   0
+    PCJ 600                 |   16127       |   0          |    0           |   0
+    Ruffian                 |   15871       |   0          |    0           |   0
+    Sanchez                 |   15359       |   0          |    0           |   0
+    Sanchez (Livery)        |   14335       |   0          |    0           |   0
+    Vader                   |   12287       |   0          |    0           |   0
+    Carbon RS               |   8191        |   0          |    0           |   0
+    Thrust                  |   16383       |   1          |    0           |   0
+    Sovereign               |   16383       |   2          |    0           |   0
+    Innovation              |   16383       |   4          |    0           |   0
+    Hakuchou                |   16383       |   8          |    0           |   0
+    Enduro                  |   16383       |   16         |    0           |   0
+    Lectro                  |   16383       |   32         |    0           |   0
+    Vindicator              |   16383       |   64         |    0           |   0
+    BF400                   |   16383       |   128        |    0           |   0
+    Gargoyle                |   16383       |   256        |    0           |   0
+    Cliffhanger             |   16383       |   512        |    0           |   0
+    Hakuchou Drag           |   16383       |   1024       |    0           |   0
+    Defiler                 |   16383       |   2048       |    0           |   0
+    Chimera                 |   16383       |   4096       |    0           |   0
+    Zombie Chopper          |   16383       |   8192       |    0           |   0
+    Avarus                  |   16383       |   16384      |    0           |   0
+    Nightblade              |   16383       |   32768      |    0           |   0
+    Zombie Bobber           |   16383       |   65536      |    0           |   0
+    Wolfsbane               |   16383       |   131072     |    0           |   0
+    Manchez                 |   16383       |   262144     |    0           |   0
+    Rat Bike                |   16383       |   524288     |    0           |   0
+    Faggio Mpd              |   16383       |   1048576    |    0           |   0
+    Faggio Sport            |   16383       |   2097152    |    0           |   0
+    Daemon Custom           |   16383       |   4194304    |    0           |   0
+    Vortex                  |   16383       |   8388608    |    0           |   0
+    Shotaro                 |   16383       |   16777216   |    0           |   0
+    Esskey                  |   16383       |   33554432   |    0           |   0
+    Diabolus                |   16383       |   67108864   |    0           |   0
+    Diabolus Custom         |   16383       |   134217728  |    0           |   0
+    FCR 1000                |   16383       |   268435456  |    0           |   0
+    FCR 1000 Custom         |   16383       |   536870912  |    0           |   0
+    Santus                  |   16383       |   1073741824 |    0           |   0
+    Rampant Rocket          |   16383       |   0          |    1           |   0
+    Struder                 |   16383       |   0          |    2           |   0
+    Manchez Scout           |   16383       |   0          |    4           |   0
+    Shinobi                 |   16383       |   0          |    16          |   0
+    Reever                  |   16383       |   0          |    32          |   0
+                            |               |              |                |                
+                            |               |              |                |                
+Off-Road count - 47   ( icv = 9; clbs = 512)
+                            |               |              |                |   
+    Global_4718592.f_77781 - adlc
+    Global_4718592.f_77729 - aveh
+                            |               |              |                |   
+    All                     |   0           |   2147483647 |    0           |   0
+    Injection               |   65534       |   0          |    0           |   0
+    Baller                  |   65533       |   0          |    0           |   0
+    Blazer                  |   65531       |   0          |    0           |   0
+    Duneloader              |   65527       |   0          |    0           |   0
+    Dune Buggy              |   65519       |   0          |    0           |   0
+    Patriot                 |   65503       |   0          |    0           |   0
+    Sanchez                 |   65471       |   0          |    0           |   0
+    Sandking XL             |   65407       |   0          |    0           |   0
+    Bodhi                   |   65279       |   0          |    0           |   0
+    Dubsta                  |   65023       |   0          |    0           |   0
+    Mesa                    |   64511       |   0          |    0           |   0
+    Rusty Rebel             |   63487       |   0          |    0           |   0
+    Sandking SWB            |   61439       |   0          |    0           |   0
+    Tornado                 |   57343       |   0          |    0           |   0
+    Sanchez (Livery)        |   49151       |   0          |    0           |   0
+    Dubsta 6x6              |   32767       |   0          |    0           |   0
+    Bifta                   |   65535       |   1          |    0           |   0
+    Kalahari                |   65535       |   2          |    0           |   0
+    Paradise                |   65535       |   4          |    0           |   0
+    Liberator               |   65535       |   8          |    0           |   0
+    Marshall                |   65535       |   16         |    0           |   0
+    Insurgent               |   65535       |   32         |    0           |   0
+    Guardian                |   65535       |   64         |    0           |   0
+    Brawler                 |   65535       |   128        |    0           |   0
+    Trophy Truck            |   65535       |   256        |    0           |   0
+    Desert Raid             |   65535       |   512        |    0           |   0
+    BF400                   |   65535       |   1024       |    0           |   0
+    Dune                    |   65535       |   2048       |    0           |   0
+    Street Blazer           |   65535       |   4096       |    0           |   0
+    Riata                   |   65535       |   8192       |    0           |   0
+    Kamacho                 |   65535       |   16384      |    0           |   0
+    Freecrawler             |   65535       |   32768      |    0           |   0
+    Menacer                 |   65535       |   65536      |    0           |   0
+    Hellion                 |   65535       |   131072     |    0           |   0
+    Caracara 4x4            |   65535       |   262144     |    0           |   0
+    Rancher XL              |   65535       |   524288     |    0           |   0
+    Outlaw                  |   65535       |   1048576    |    0           |   0
+    Everon                  |   65535       |   2097152    |    0           |   0
+    Zhaba                   |   65535       |   4194304    |    0           |   0
+    Vagrant                 |   65535       |   8388608    |    0           |   0
+    Yosemite Rancher        |   65535       |   16777216   |    0           |   0
+    Rebel                   |   65535       |   33554432   |    0           |   0
+    Winky                   |   65535       |   67108864   |    0           |   0
+    Verys                   |   65535       |   134217728  |    0           |   0
+    Manchez Scout           |   65535       |   268435456  |    0           |   0
+    Nightshark              |   65535       |   536870912  |    0           |   0
+    Patriot Mil-Spec        |   65535       |   1073741824 |    0           |   0
+                            |               |              |                |                
+                            |               |              |                |                
+Industrial count - 5   ( icv = 10; clbs = 1024)
+                            |               |              |                |   
+    Global_4718592.f_77785 - adlc
+    Global_4718592.f_77730 - aveh
+                            |               |              |                |   
+    All                     |   32          |   0          |    0           |   0
+    Dozer                   |   30          |   0          |    0           |   0
+    Cutter                  |   29          |   0          |    0           |   0
+    Dump                    |   27          |   0          |    0           |   0
+    Dock Handler            |   23          |   0          |    0           |   0
+    Mixer                   |   15          |   0          |    0           |   0
+                            |               |              |                |                
+                            |               |              |                |                
+Utility count - 6   ( icv = 11; clbs = 2048)
+                            |               |              |                |   
+    Global_4718592.f_77789 - adlc
+    Global_4718592.f_77731 - aveh
+                            |               |              |                |   
+    All                     |   32          |   1          |    0           |   0
+    Airtug                  |   30          |   0          |    0           |   0
+    Caddy                   |   29          |   0          |    0           |   0
+    Faggio                  |   27          |   0          |    0           |   0
+    Fieldmaster             |   23          |   0          |    0           |   0
+    Lawn Mower              |   15          |   0          |    0           |   0
+    Slamtruck               |   31          |   1          |    0           |   0
+                            |               |              |                |                
+                            |               |              |                |                
+Vans count - 19  ( icv = 12; clbs = 4096)
+                            |               |              |                |   
+    Global_4718592.f_77793 - adlc
+    Global_4718592.f_77732 - aveh
+                            |               |              |                |   
+    All                     |   0           |   4095       |    0           |   0
+    Boxvile (Water & Power) |   4094        |   0          |    0           |   0
+    Burrito (Bugstars)      |   4093        |   0          |    0           |   0
+    Camper                  |   4091        |   0          |    0           |   0
+    Clown Van               |   4087        |   0          |    0           |   0
+    Jourey                  |   4079        |   0          |    0           |   0
+    Pony                    |   4063        |   0          |    0           |   0
+    Minivan                 |   4031        |   0          |    0           |   0
+    Rumpo                   |   3967        |   0          |    0           |   0
+    Surfer                  |   3839        |   0          |    0           |   0
+    Taco Van                |   3583        |   0          |    0           |   0
+    Youga                   |   3071        |   0          |    0           |   0
+    Mule (No Livery)        |   2047        |   0          |    0           |   0
+    Gang Burrito            |   4095        |   1          |    0           |   0
+    Minivan Custom          |   4095        |   2          |    0           |   0
+    Rumpo Custom            |   4095        |   4          |    0           |   0
+    Youga Custom            |   4095        |   8          |    0           |   0
+    Speedo Custom           |   4095        |   16         |    0           |   0
+    Mule Custom             |   4095        |   32         |    0           |   0
+    Youga Class 4x4         |   4095        |   2048       |    0           |   0
+                            |               |              |                |                
+                            |               |              |                |                
+Cycles count - 6   ( icv = 13; clbs = 8192)
+                            |               |              |                |   
+    Global_4718592.f_77797 - adlc
+    Global_4718592.f_77733 - aveh
+                            |               |              |                |   
+    All                     |   0           |   0          |    0           |   0
+    BMX                     |   62          |   0          |    0           |   0
+    Cruiser                 |   61          |   0          |    0           |   0
+    Scorcher                |   59          |   0          |    0           |   0
+    Whippet Race Bike       |   55          |   0          |    0           |   0
+    Endurex Race Bike       |   47          |   0          |    0           |   0
+    Tri-Cycles Race Bike    |   31          |   0          |    0           |   0
+                            |               |              |                |                
+                            |               |              |                |            
+Special count - 11  ( icv = 15; clbs = 32768)
+                            |               |              |                |   
+    Global_4718592.f_77805 - adlc
+    Global_4718592.f_77735 - aveh
+                            |               |              |                |   
+    All                     |   0           |   2047       |    0           |   0
+    Blazer Aqua             |   0           |   1          |    0           |   0
+    Ruiner 2000             |   0           |   2          |    0           |   0
+    Rocket Voltic           |   0           |   4          |    0           |   0
+    Deluxo                  |   0           |   8          |    0           |   0
+    Stromberg               |   0           |   16         |    0           |   0
+    Thruster                |   0           |   32         |    0           |   0
+    Oppressor               |   0           |   64         |    0           |   0
+    Vigilante               |   0           |   128        |    0           |   0
+    Oppressor Mk2           |   0           |   256        |    0           |   0
+    Scramjet                |   0           |   512        |    0           |   0
+    RC Bandito              |   0           |   1024       |    0           |   0
+                            |               |              |                |                
+                            |               |              |                |                
+Weaponised count - 13  ( icv = 16; clbs = 65536)
+                            |               |              |                |   
+    Global_4718592.f_77809 - adlc
+    Global_4718592.f_77736 - aveh
+                            |               |              |                |   
+    All                     |   0           |   8191       |    0           |   0
+    Technical Aqua          |   0           |   1          |    0           |   0
+    Technical Custom        |   0           |   2          |    0           |   0
+    Technical               |   0           |   4          |    0           |   0
+    Dune FAV                |   0           |   8          |    0           |   0
+    Armored Boxville        |   0           |   16         |    0           |   0
+    Turreted Limo           |   0           |   32         |    0           |   0
+    Barrage                 |   0           |   64         |    0           |   0
+    Half-track              |   0           |   128        |    0           |   0
+    APC                     |   0           |   256        |    0           |   0
+    Caracara                |   0           |   512        |    0           |   0
+    Insurgent Pick-Up Custom|   0           |   1024       |    0           |   0
+    Insurgent Pick-Up       |   0           |   2048       |    0           |   0
+    Menacer                 |   0           |   4096       |    0           |   0
+                            |               |              |                |                
+                            |               |              |                |                
+Arena Contender count - 12  ( icv = 17; clbs = 135168)
+                            |               |              |                |   
+    Global_4718592.f_77813 - adlc
+    Global_4718592.f_77737 - aveh
+                            |               |              |                |   
+    All (Apocalypse)        |   0           |   4095       |    0           |   0
+    Bruiser                 |   0           |   1          |    0           |   0
+    Brutus                  |   0           |   2          |    0           |   0
+    Cerberus                |   0           |   4          |    0           |   0
+    Deathbike               |   0           |   8          |    0           |   0
+    Dominator               |   0           |   16         |    0           |   0
+    Impaler                 |   0           |   32         |    0           |   0
+    Imperator               |   0           |   64         |    0           |   0
+    Issi                    |   0           |   128        |    0           |   0
+    Sasquatch               |   0           |   256        |    0           |   0
+    Scarab                  |   0           |   512        |    0           |   0
+    Slamvan                 |   0           |   1024       |    0           |   0
+    ZR380                   |   0           |   2048       |    0           |   0
+                            |               |              |                |                
+                            |               |              |                |                
+Open Wheel count - 4  ( icv = 18; clbs = 262144)
+                            |               |              |                |   
+    Global_4718592.f_77817 - adlc
+    Global_4718592.f_77738 - aveh
+                            |               |              |                |   
+    All                     |   0           |   15         |    0           |   0
+    PR4                     |   0           |   1          |    0           |   0
+    R88                     |   0           |   2          |    0           |   0
+    DR8                     |   0           |   4          |    0           |   0
+    DR1                     |   0           |   8          |    0           |   0
+                            |               |              |                |                
+                            |               |              |                |            
+Go-Kart count - 2   ( icv = 19; clbs = 524288 )
+                            |               |              |                |                
+    Global_4718592.f_77821 - adlc
+    Global_4718592.f_77739 - aveh
+                            |               |              |                |                
+    All                     |   0           |   3          |    0           |   0 
+    Veto Classic            |   0           |   1          |    0           |   0
+    Veto Modern             |   0           |   2          |    0           |   0                 
+                            |               |              |                |            
+                            |               |              |                |            
+Tuner count - 17  ( icv = 20; clbs = 1048576 )
+                            |               |              |                |                
+    Global_4718592.f_77825 - adlc
+    Global_4718592.f_77740 - aveh
+                            |               |              |                |                
+    All                     |   0           |   131071     |    0           |   0 
+    Calico GTF              |   0           |   1          |    0           |   0
+    Jester RR               |   0           |   2          |    0           |   0
+    ZR350                   |   0           |   4          |    0           |   0
+    Remus                   |   0           |   8          |    0           |   0
+    Vectre                  |   0           |   16         |    0           |   0
+    Cypher                  |   0           |   32         |    0           |   0
+    Dominator ASP           |   0           |   64         |    0           |   0
+    Comet S2                |   0           |   128        |    0           |   0
+    Wareener HKR            |   0           |   256        |    0           |   0
+    RT3000                  |   0           |   512        |    0           |   0
+    Tailgater S             |   0           |   1024       |    0           |   0
+    Sultan RS Classic       |   0           |   2048       |    0           |   0
+    Futo GTX                |   0           |   4096       |    0           |   0
+    Dominator GTT           |   0           |   8192       |    0           |   0
+    Previon                 |   0           |   16384      |    0           |   0
+    Euros                   |   0           |   32768      |    0           |   0
+    Growler                 |   0           |   65536      |    0           |   0
