@@ -1,16 +1,16 @@
-For version game 1.58 (On other versions of the game "Global" does not work correctly)
+For version game 1.60 (On other versions of the game "Global" does not work correctly)
 
 ------------------------------------------------------------------------------
 
-clbs = Global_4718592.f_77718
-icv = Global_4718592.f_77714
+clbs = Global_4718592.f_77719
+icv = Global_4718592.f_77715
 
 ------------------------------------------------------------------------------
     Vehicle                 |      aveh     |      adlc    |       adlc2    |    adlc3   
                             |               |              |                |   
 Compacts vehicle count - 13 ( icv = 0; clbs = 1)   
                             |               |              |                |   
-    Global_4718592.f_77745 - adlc
+    Global_4718592.f_77747 - adlc
     Global_4718592.f_77720 - aveh
                             |               |              |                |   
     Blista                  |      14       |   0          |    0           |   0
@@ -29,8 +29,8 @@ Compacts vehicle count - 13 ( icv = 0; clbs = 1)
                             |               |              |                |   
 Sedans vehicle count - 28 ( icv = 1; clbs = 2 )   
                             |               |              |                |   
-    Global_4718592.f_77749 - adlc
-    Global_4718592.f_77721 - aveh
+    Global_4718592.f_77747.f_2 - adlc
+    Global_4718592.f_77720.f_1 - aveh
                             |               |              |                |   
     Asea                    |      2046     |   0          |    0           |   0
     Asterope                |      2045     |   0          |    0           |   0
@@ -64,8 +64,8 @@ Sedans vehicle count - 28 ( icv = 1; clbs = 2 )
                             |               |              |                |   
 SUVs vehicle count - 37 ( icv = 2; clbs = 4 )   
                             |               |              |                |   
-    Global_4718592.f_77753 - adlc
-    Global_4718592.f_77722 - aveh
+    Global_4718592.f_77747.f_6 - adlc
+    Global_4718592.f_77720.f_2 - aveh
                             |               |              |                |   
     All                     |   0           |   7864319    |    0           |   0 
     Baller                  |   32766       |   0          |    0           |   0
@@ -109,8 +109,8 @@ SUVs vehicle count - 37 ( icv = 2; clbs = 4 )
                             |               |              |                |   
 Coupes vehicle count - 10 ( icv = 3; clbs = 8 )
                             |               |              |                |   
-    Global_4718592.f_77757 - adlc
-    Global_4718592.f_77723 - aveh
+    Global_4718592.f_77747.f_10 - adlc
+    Global_4718592.f_77720.f_3 - aveh
                             |               |              |                |   
     All                     |   0           |   7          |    0           |   0 
     Cognoscenti Cabrio      |   126         |   0          |    0           |   0
@@ -127,9 +127,9 @@ Coupes vehicle count - 10 ( icv = 3; clbs = 8 )
                             |               |              |                |   
 Muscle vehicle count - 53 ( icv = 4; clbs = 16 )   
                             |               |              |                |   
-    Global_4718592.f_77761 - adlc
-    Global_4718592.f_77762 - adlc2
-    Global_4718592.f_77724 - aveh
+    Global_4718592.f_77747.f_15 - adlc
+    Global_4718592.f_77747.f_15.f_1 - adlc2
+    Global_4718592.f_77720.f_4 - aveh
                             |               |              |                |   
     All                     |   0           |   2147483647 |    12287       |   0 
     Buccaneer               |   510         |   0          |    0           |   0
@@ -189,8 +189,8 @@ Muscle vehicle count - 53 ( icv = 4; clbs = 16 )
                             |               |              |                |   
 Sports Classics vehicle count - 35   ( icv = 5; clbs = 32)
                             |               |              |                |   
-    Global_4718592.f_77765 - adlc
-    Global_4718592.f_77725 - aveh
+    Global_4718592.f_77747.f_18 - adlc
+    Global_4718592.f_77720.f_5 - aveh
                             |               |              |                |   
     All                     |   0           |   2147483647 |    0           |   0 
     JB 700                  |   14          |   0          |    0           |   0
@@ -232,10 +232,10 @@ Sports Classics vehicle count - 35   ( icv = 5; clbs = 32)
                             |               |              |                |   
 Sports count - 77   ( icv = 6; clbs = 64)
                             |               |              |                |   
-    Global_4718592.f_77769 - adlc
-    Global_4718592.f_77770 - adlc2
-    Global_4718592.f_77771 - adlc3
-    Global_4718592.f_77726 - aveh
+    Global_4718592.f_77747.f_22 - adlc
+    Global_4718592.f_77747.f_22.f_1 - adlc2
+    Global_4718592.f_77747.f_22.f_2 - adlc3
+    Global_4718592.f_77720.f_6 - aveh
                             |               |              |                |   
     All                     |   0           |   2147483647 |    2147483647  |   27
     9F Cabrio               |   2046        |   0          |    0           |   0
@@ -319,9 +319,9 @@ Sports count - 77   ( icv = 6; clbs = 64)
                             |               |              |                |   
 Super count - 48   ( icv = 7; clbs = 128)
                             |               |              |                |   
-    Global_4718592.f_77773 - adlc
-    Global_4718592.f_77774 - adlc2
-    Global_4718592.f_77727 - aveh
+    Global_4718592.f_77747.f_26 - adlc
+    Global_4718592.f_77747.f_26.f_1 - adlc2
+    Global_4718592.f_77720.f_7 - aveh
                             |               |              |                |   
     All                     |   0           |   2147483647 |    3327        |   0
     Adder                   |   127         |   0          |    0           |   0
@@ -376,9 +376,9 @@ Super count - 48   ( icv = 7; clbs = 128)
                             |               |              |                |   
 Bikes count - 50   ( icv = 8; clbs = 256)
                             |               |              |                |   
-    Global_4718592.f_77777 - adlc
-    Global_4718592.f_77778 - adlc2
-    Global_4718592.f_77728 - aveh
+    Global_4718592.f_77747.f_30 - adlc
+    Global_4718592.f_77747.f_30.f_1 - adlc2
+    Global_4718592.f_77720.f_8 - aveh
                             |               |              |                |   
     All                     |   0           |   2147483647 |    55          |   0
     Akuma                   |   16382       |   0          |    0           |   0
@@ -435,8 +435,8 @@ Bikes count - 50   ( icv = 8; clbs = 256)
                             |               |              |                |                
 Off-Road count - 47   ( icv = 9; clbs = 512)
                             |               |              |                |   
-    Global_4718592.f_77781 - adlc
-    Global_4718592.f_77729 - aveh
+    Global_4718592.f_77747.f_34 - adlc
+    Global_4718592.f_77720.f_9 - aveh
                             |               |              |                |   
     All                     |   0           |   2147483647 |    0           |   0
     Injection               |   65534       |   0          |    0           |   0
@@ -490,8 +490,8 @@ Off-Road count - 47   ( icv = 9; clbs = 512)
                             |               |              |                |                
 Industrial count - 5   ( icv = 10; clbs = 1024)
                             |               |              |                |   
-    Global_4718592.f_77785 - adlc
-    Global_4718592.f_77730 - aveh
+    Global_4718592.f_77747.f_38 - adlc
+    Global_4718592.f_77720.f_10 - aveh
                             |               |              |                |   
     All                     |   32          |   0          |    0           |   0
     Dozer                   |   30          |   0          |    0           |   0
@@ -503,8 +503,8 @@ Industrial count - 5   ( icv = 10; clbs = 1024)
                             |               |              |                |                
 Utility count - 6   ( icv = 11; clbs = 2048)
                             |               |              |                |   
-    Global_4718592.f_77789 - adlc
-    Global_4718592.f_77731 - aveh
+    Global_4718592.f_77747.f_42 - adlc
+    Global_4718592.f_77720.f_11 - aveh
                             |               |              |                |   
     All                     |   32          |   1          |    0           |   0
     Airtug                  |   30          |   0          |    0           |   0
@@ -517,8 +517,8 @@ Utility count - 6   ( icv = 11; clbs = 2048)
                             |               |              |                |                
 Vans count - 19  ( icv = 12; clbs = 4096)
                             |               |              |                |   
-    Global_4718592.f_77793 - adlc
-    Global_4718592.f_77732 - aveh
+    Global_4718592.f_77747.f_46 - adlc
+    Global_4718592.f_77720.f_12 - aveh
                             |               |              |                |   
     All                     |   0           |   4095       |    0           |   0
     Boxvile (Water & Power) |   4094        |   0          |    0           |   0
@@ -544,8 +544,8 @@ Vans count - 19  ( icv = 12; clbs = 4096)
                             |               |              |                |                
 Cycles count - 6   ( icv = 13; clbs = 8192)
                             |               |              |                |   
-    Global_4718592.f_77797 - adlc
-    Global_4718592.f_77733 - aveh
+    Global_4718592.f_77747.f_50 - adlc
+    Global_4718592.f_77720.f_13 - aveh
                             |               |              |                |   
     All                     |   0           |   0          |    0           |   0
     BMX                     |   62          |   0          |    0           |   0
@@ -558,8 +558,8 @@ Cycles count - 6   ( icv = 13; clbs = 8192)
                             |               |              |                |            
 Special count - 11  ( icv = 15; clbs = 32768)
                             |               |              |                |   
-    Global_4718592.f_77805 - adlc
-    Global_4718592.f_77735 - aveh
+    Global_4718592.f_77747.f_58 - adlc
+    Global_4718592.f_77720.f_15 - aveh
                             |               |              |                |   
     All                     |   0           |   2047       |    0           |   0
     Blazer Aqua             |   0           |   1          |    0           |   0
@@ -577,8 +577,8 @@ Special count - 11  ( icv = 15; clbs = 32768)
                             |               |              |                |                
 Weaponised count - 13  ( icv = 16; clbs = 65536)
                             |               |              |                |   
-    Global_4718592.f_77809 - adlc
-    Global_4718592.f_77736 - aveh
+    Global_4718592.f_77747.f_62 - adlc
+    Global_4718592.f_77720.f_16 - aveh
                             |               |              |                |   
     All                     |   0           |   8191       |    0           |   0
     Technical Aqua          |   0           |   1          |    0           |   0
@@ -598,8 +598,8 @@ Weaponised count - 13  ( icv = 16; clbs = 65536)
                             |               |              |                |                
 Arena Contender count - 12  ( icv = 17; clbs = 135168)
                             |               |              |                |   
-    Global_4718592.f_77813 - adlc
-    Global_4718592.f_77737 - aveh
+    Global_4718592.f_77747.f_66 - adlc
+    Global_4718592.f_77720.f_17 - aveh
                             |               |              |                |   
     All (Apocalypse)        |   0           |   4095       |    0           |   0
     Bruiser                 |   0           |   1          |    0           |   0
@@ -618,8 +618,8 @@ Arena Contender count - 12  ( icv = 17; clbs = 135168)
                             |               |              |                |                
 Open Wheel count - 4  ( icv = 18; clbs = 262144)
                             |               |              |                |   
-    Global_4718592.f_77817 - adlc
-    Global_4718592.f_77738 - aveh
+    Global_4718592.f_77747.f_70 - adlc
+    Global_4718592.f_77720.f_18 - aveh
                             |               |              |                |   
     All                     |   0           |   15         |    0           |   0
     PR4                     |   0           |   1          |    0           |   0
@@ -630,8 +630,8 @@ Open Wheel count - 4  ( icv = 18; clbs = 262144)
                             |               |              |                |            
 Go-Kart count - 2   ( icv = 19; clbs = 524288 )
                             |               |              |                |                
-    Global_4718592.f_77821 - adlc
-    Global_4718592.f_77739 - aveh
+    Global_4718592.f_77747.f_74 - adlc
+    Global_4718592.f_77720.f_19 - aveh
                             |               |              |                |                
     All                     |   0           |   3          |    0           |   0 
     Veto Classic            |   0           |   1          |    0           |   0
@@ -640,8 +640,8 @@ Go-Kart count - 2   ( icv = 19; clbs = 524288 )
                             |               |              |                |            
 Tuner count - 17  ( icv = 20; clbs = 1048576 )
                             |               |              |                |                
-    Global_4718592.f_77825 - adlc
-    Global_4718592.f_77740 - aveh
+    Global_4718592.f_77747.f_78 - adlc
+    Global_4718592.f_77720.f_20 - aveh
                             |               |              |                |                
     All                     |   0           |   131071     |    0           |   0 
     Calico GTF              |   0           |   1          |    0           |   0
